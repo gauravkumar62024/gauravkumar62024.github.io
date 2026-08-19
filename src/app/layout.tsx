@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     description: profileContent.siteDescription,
     images: [
       {
-        url: "/gaurav.png",
+        url: "/gaurav.jpg",
         width: 1200,
         height: 630,
         alt: `${profileContent.hero.name} portfolio preview`,
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: profileContent.siteTitle,
     description: profileContent.siteDescription,
-    images: ["/gaurav.png"],
+    images: ["/gaurav.jpg"],
   },
   robots: {
     index: true,
