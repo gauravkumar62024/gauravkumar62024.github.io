@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     description: profileContent.siteDescription,
     images: [
       {
-        url: "/gaurav.jpg",
+        url: "/gaurav.png",
         width: 1200,
         height: 630,
         alt: `${profileContent.hero.name} portfolio preview`,
