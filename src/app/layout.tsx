@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: profileContent.siteTitle,
     description: profileContent.siteDescription,
-    images: ["/gaurav.jpg"],
+    images: ["/gaurav.png"],
   },
   robots: {
     index: true,
